@@ -2,7 +2,6 @@
 User ratings prediction system using collaborative filtering techniques in Python.
 
 - Performed latent factor modeling of the utility matrix (ratings matrix) using incremental UV decomposition and Spark’s example implementation of ALS.
-- Performed latent factor modeling of the utility matrix (ratings matrix) using incremental UV decomposition and Spark’s example implementation of ALS.
 
 Core Technology: Apache Spark, Python, numpy, AWS (Amazon EC2).
 
